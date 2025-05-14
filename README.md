@@ -49,6 +49,8 @@ A sophisticated machine learning system that recommends recipes to users based o
 
 ## Author
 - jak-weston
+- nathanielgberg
+- chase-of-the-fjords
 
 ## License
 This project is open source and available under the MIT License.
